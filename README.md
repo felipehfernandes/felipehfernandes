@@ -4,7 +4,7 @@
 
 <br />
 
-<div align="center">
+<div align="left">
 
 ## About Me
 
@@ -14,7 +14,7 @@
 
 ## Languages and Tools:
 
-<p align="left">
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
@@ -36,6 +36,8 @@
   <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Guarize's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarize&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="350" /></a>
 </p>
+  
+<div align="left">
 
 ## Connect with me:
 
