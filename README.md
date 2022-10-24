@@ -30,9 +30,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Felipe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=felipehfernandes&show_icons=true&hide=issues,&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="500" /></a>
-  </p>
   <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Felipe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="350" /></a>
 </p>
