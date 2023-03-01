@@ -24,18 +24,6 @@
   
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-</p>
-
-## My Github Stats
-
-<br/>
-
-  <p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Felipe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipehfernandes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="350" /></a>
-</p>
-  
-<div align="left">
-
 ## Connect with me:
 
 <p align="center">
